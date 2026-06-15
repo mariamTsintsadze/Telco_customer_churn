@@ -293,9 +293,9 @@ The dataset used in this project remains subject to the original dataset license
 
 ---
 ## Acknowledgements
-IBM — for the Telco Customer Churn Dataset
-Kaggle — for dataset accessibility
-SHAP & LIME — open-source interpretability libraries
-Prof. Maxim Iavich — for supervision and guidance
+- **IBM** — for the Telco Customer Churn Dataset
+- **Kaggle** — for dataset accessibility
+- **SHAP & LIME** — open-source interpretability libraries
+- **Prof. Maxim Iavich** — for supervision and guidance
 
 
